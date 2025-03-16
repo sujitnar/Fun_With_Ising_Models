@@ -1,2 +1,2 @@
-# Kawasaki_Spin_Model
-Dynamics of Kawasaki Spin Model
+# 1D and 2D Ising Models
+
